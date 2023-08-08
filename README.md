@@ -1,4 +1,4 @@
-Hi, I’m Youssef Omran👋
+Hi, I’m Youssef Omran 👋
 
 - I’m interested in machine learning, deep learning, and generative AI 🕸
 
