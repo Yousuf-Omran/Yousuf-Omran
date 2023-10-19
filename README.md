@@ -4,4 +4,4 @@
 
 - I’m currently available for a part/full-time job as an ML engineer.
 
-- You can reach me via my email: yousufomran619@gmail.com 📫
+- You can reach me via the following mail: yousufomran619@gmail.com 📫
